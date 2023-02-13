@@ -1,8 +1,8 @@
-// const myArray = [];
+ const myArray = [];
 
-// // for (let i = 1; i <= 10; i++) {
-// //     myArray.push(i);
-// // }
+ for (let i = 1; i <= 10; i++) {
+     myArray.push(i);
+}
 
 // // console.log(Math.round(Math.random(myArray) * 10));
 
